@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.34928.147
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "er-huawei-integrator-cons", "er-huawei-integrator-cons\er-huawei-integrator-cons.csproj", "{49A6C04C-9854-4C24-8D86-5D2FBE4A3E69}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ER.Huawei.Integrator", "ER.Huawei.Integrator\ER.Huawei.Integrator.csproj", "{72297EAB-0B02-429B-B2A4-C66FDF4F7007}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{49A6C04C-9854-4C24-8D86-5D2FBE4A3E69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{49A6C04C-9854-4C24-8D86-5D2FBE4A3E69}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{49A6C04C-9854-4C24-8D86-5D2FBE4A3E69}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{49A6C04C-9854-4C24-8D86-5D2FBE4A3E69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72297EAB-0B02-429B-B2A4-C66FDF4F7007}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72297EAB-0B02-429B-B2A4-C66FDF4F7007}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72297EAB-0B02-429B-B2A4-C66FDF4F7007}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72297EAB-0B02-429B-B2A4-C66FDF4F7007}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
